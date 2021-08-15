@@ -1,0 +1,4 @@
+Base path: 'D:/Project/2019.2.0f1/Editor/Data', plugins path 'D:/Project/2019.2.0f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+
+Cmd: shutdown
